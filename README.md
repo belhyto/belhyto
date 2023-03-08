@@ -2,7 +2,7 @@
 <h3 align="center">Better known as Belhyto, computer science student and freelance digital artist.</h3>
 
 - 🔭 I’m currently working on **various projects such as Oshen, SignWay, LemonDay, LadyLink, Ami-Hood and Ami-Food.**
-
+![](https://github.com/belhyto/belhyto/blob/main/project%20logo%20banner.png)
 - 👨‍💻My digital art portfolio [belhyto.github.io](belhyto.github.io)
 
 - 📝 I regularly post videos on [https://www.youtube.com/@belhyto414](https://www.youtube.com/@belhyto414)
