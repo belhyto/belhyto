@@ -1,8 +1,5 @@
-
 <h1 align="center">Hello, I'm Roshni Sahoo👋</h1>
-<h3 align="center">Better known as Belhyto, A computer science student and freelance digital artist.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belhyto" alt="belhyto" /></a> </p>
+<h3 align="center">Better known as Belhyto, computer science student and freelance digital artist.</h3>
 
 - 🔭 I’m currently working on **various projects such as Oshen, SignWay, LemonDay, LadyLink, Ami-Hood and Ami-Food.**
 
@@ -15,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/belhyto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belhyto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/roshni sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshni sahoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/roshni-sahoo-034427229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/roshni-sahoo-034427229/" height="30" width="40" /></a>
 <a href="https://instagram.com/belhyto10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="belhyto10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/belhyto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="belhyto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@belhyto414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@belhyto414" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belhyto&show_icons=true&locale=en&layout=compact" alt="belhyto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belhyto&show_icons=true&locale=en" alt="belhyto" /></p>
-
-
