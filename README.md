@@ -49,30 +49,15 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.clipstudio.net/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.wikia.nocookie.net/logopedia/images/f/f8/Clip_Studio_Paint_%282022%29.svg" alt="clip studio paint" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
+
   <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" alt="maya" width="40" height="40"/> 
   </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="after effects" width="40" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/animate.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/animate/animate-original.svg" alt="animate" width="40" height="40"/> 
-  </a></p>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belhyto&show_icons=true&locale=en&layout=compact" alt="belhyto" /></p>
 
