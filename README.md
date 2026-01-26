@@ -1,8 +1,9 @@
 <h1 align="center">Hello, I'm Roshni Sahoo👋</h1>
 <h3 align="center">Better known as Belhyto, computer science student and freelance digital artist.</h3>
 
-- 🔭 I’m currently working on **various projects such as Oshen, SignWay, LemonDay, LadyLink, Ami-Hood and Ami-Food.**
-![](https://github.com/belhyto/belhyto/blob/main/ProjectLogos.png)
+- Hackathon enthusiast, Android App developer, Animation Minor 
+- 🔭 I’m currently working on **various projects such as  SignWay, Neuroplay, ZeroBase3D, Moodash LemonDay, Oshen, LadyLink**
+![](https://res.cloudinary.com/dpqmjvxkm/image/upload/v1769422235/ProjectLogosBlack_uwc3xq.png)
 - 👨‍💻My digital art portfolio [belhyto.github.io](https://belhyto.github.io/)
 
 - 📝 I regularly post videos on [https://www.youtube.com/@belhyto414](https://www.youtube.com/@belhyto414)
