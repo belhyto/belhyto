@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=belhyto&style=for-the-badge&label=🔥+Profile+Views)
 
-<h1 align="center">Hello, I'm Roshni Sahoo👋</h1>
+<h1 align="center">Hello, I'm Roshni Sahoo🫏</h1>
 <h3 align="center">Better known as Belhyto, computer science student and freelance digital artist.</h3>
 
 ![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+projects+that+matter...;Creative+at+heart...;Researching+AI/ML+AIOT+HCI+AR/VR+XAI...;Want+to+help+fix+the+world...)
 
+- Pursing Master's in Artificial Intelligence 
 - Hackathon enthusiast, Android App developer, Animation Minor 
 - 🔭 I’m currently working on **various projects such as  SignWay, Neuroplay, ZeroBase3D, Moodash LemonDay, Oshen, LadyLink**
 ![](https://res.cloudinary.com/dpqmjvxkm/image/upload/v1769422235/ProjectLogosBlack_uwc3xq.png)
