@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Roshni Sahoo🫏</h1>
 <h3 align="center">Better known as Belhyto, computer science student and freelance digital artist.</h3>
 
-![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+projects+that+matter...;Creative+at+heart...;Researching+AI/ML+AIOT+HCI+AR/VR+XAI...;Want+to+help+fix+the+world...)
+![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Predicting+the+future...;Building+projects+that+matter...;Creative+at+heart...;Researching+AI/ML+AIOT+HCI+AR/VR+XAI...;Want+to+help+fix+the+world...)
 
 - Pursing Master's in Artificial Intelligence 
 - Hackathon enthusiast, Android App developer, Animation Minor 
