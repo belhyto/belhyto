@@ -14,9 +14,7 @@
 - 📝 I regularly post videos on [https://www.youtube.com/@belhyto414](https://www.youtube.com/@belhyto414)
 
 - 📫 How to reach me **1712roshni@gmail.com**
-<div >
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"  width="800" />
-</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/belhyto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belhyto" height="30" width="40" /></a>
@@ -67,16 +65,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belhyto&show_icons=true&locale=en&layout=compact" alt="belhyto" /></p>
-
-
-
 <!-- Use Vercel-hosted streak card for better reliability -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=belhyto&theme=radical) 
 
-
-
-
-
 ### :sparkles: **Let's Build Something Awesome Together!**
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
