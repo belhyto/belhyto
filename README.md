@@ -6,10 +6,18 @@
 ![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Predicting+the+future...;Building+projects+that+matter...;Creative+at+heart...;Researching+AI/ML+AIOT+HCI+AR/VR+XAI...;Want+to+help+fix+the+world...)
 
 - Pursuing Master's in Artificial Intelligence 
-- Hackathon enthusiast, Android App developer, Animation Minor 
-- 🔭 I’m currently working on **various projects such as  SignWay, Neuroplay, ZeroBase3D, Moodash LemonDay, Oshen, LadyLink**
+- Development, Design and Hackathon enthusiast, Android App developer, Animation Minor 
+- I’m currently working on various projects such as
+- DesIN- Multi-Decision Maker Decision Intelligence system
+- SMRITI- Context Graph Decision Tracker 
+- SignWay- ISL collaborative curriculum builder
+- Neuroplay- Brain training games and reporter with Historical Analysis
+- WoLyf- AI Danger detection and SOS app for women safety
+- ZeroBase3D- 3D alien invasion game with original character designs
+- Moodash- Fun game based on the famous pygmy hippo Moodeng
+  And more such as LemonDay, Oshen, LadyLink**
 ![](https://res.cloudinary.com/dpqmjvxkm/image/upload/v1769422235/ProjectLogosBlack_uwc3xq.png)
-- 👨‍💻My digital art portfolio [belhyto.github.io](https://belhyto.github.io/)
+- My digital art portfolio [belhyto.github.io](https://belhyto.github.io/)
 
 - 📝 I regularly post videos on [https://www.youtube.com/@belhyto414](https://www.youtube.com/@belhyto414)
 
