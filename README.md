@@ -8,14 +8,18 @@
 - Pursuing Master's in Artificial Intelligence 
 - Development, Design and Hackathon enthusiast, Android App developer, Animation Minor 
 - I’m currently working on various projects such as
-- DesIN- Multi-Decision Maker Decision Intelligence system
-- SMRITI- Context Graph Decision Tracker 
-- SignWay- ISL collaborative curriculum builder
-- Neuroplay- Brain training games and reporter with Historical Analysis
-- WoLyf- AI Danger detection and SOS app for women safety
-- ZeroBase3D- 3D alien invasion game with original character designs
-- Moodash- Fun game based on the famous pygmy hippo Moodeng
-  And more such as LemonDay, Oshen, LadyLink**
+DesIN- Multi-Decision Maker Decision Intelligence system
+SMRITI- Context Graph Decision Tracker
+SignWay- ISL collaborative curriculum builder  
+Lightway- AI and IOT navigation aid for Visually impaired
+Volay- AI assistance application for Alzheimer patience 
+Janva- Municipality goverance and accountability Platform
+Krishi- Platform for farmers for economical decisions
+Neuroplay- Brain training games and reporter with Historical Analysis
+WoLyf- AI Danger detection and SOS app for women safety
+ZeroBase3D- 3D alien invasion game with original character designs
+Moodash- Fun game based on the famous pygmy hippo Moodeng
+  And more such as LemonDay, Oshen, LadyLink** 
 ![](https://res.cloudinary.com/dpqmjvxkm/image/upload/v1769422235/ProjectLogosBlack_uwc3xq.png)
 - My digital art portfolio [belhyto.github.io](https://belhyto.github.io/)
 
